@@ -27,6 +27,7 @@ from strava_cz_api import Auth, Api, Filter
 
 #TODO:
 
+# odhlašování obědů
 # better design
 # adding compat with different canteen systems
 # -1 and [] weird inconsistencies in scrapes
