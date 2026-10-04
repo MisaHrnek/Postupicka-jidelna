@@ -27,8 +27,10 @@ from strava_cz_api import Auth, Api, Filter
 
 #TODO:
 
+# zobrazovaní 4 jídel vedle sebe
+# předělat design přidávání jedel 
 # odhlašování obědů
-# better design
+# better design děkuji za konkrétní věci
 # adding compat with different canteen systems
 # -1 and [] weird inconsistencies in scrapes
 # add alergens
