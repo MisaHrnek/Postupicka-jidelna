@@ -27,6 +27,7 @@ from strava_cz_api import Auth, Api, Filter
 
 #TODO:
 
+# pridat potporu pro i-jidelnicek
 # zobrazovaní 4 jídel vedle sebe
 # předělat design přidávání jedel 
 # odhlašování obědů
